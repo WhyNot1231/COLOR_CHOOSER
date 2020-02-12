@@ -1,0 +1,14 @@
+td{
+    height:150px;
+    width:150px;
+    text-align:center;
+}
+.smallCell{
+    height:auto;
+    padding:10px;
+    margin:5px;
+}
+.aside{
+    display: inline-block;
+    float:left;
+}
